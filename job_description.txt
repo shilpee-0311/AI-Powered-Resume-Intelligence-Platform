@@ -1,0 +1,42 @@
+Job Title: Data Scientist / AI Researcher
+Job Description:
+
+We are looking for a passionate Data Scientist / AI Researcher to join our team. The ideal candidate will work on designing, developing, and deploying AI and Machine Learning models to solve real-world problems, analyze large datasets, and contribute to AI-driven innovations.
+
+Key Responsibilities:
+
+Perform data collection, preprocessing, and exploratory analysis to generate insights.
+
+Design, implement, and optimize machine learning and deep learning models for predictive and prescriptive analytics.
+
+Develop AI agents and intelligent systems for autonomous decision-making applications.
+
+Apply statistical analysis techniques to interpret complex datasets and support data-driven decision-making.
+
+Collaborate with cross-functional teams to integrate ML/AI solutions into products and processes.
+
+Stay updated with the latest developments in AI, Core ML, and Deep Learning technologies.
+
+Participate in personal and professional development programs to continuously improve skills and productivity.
+
+Required Skills & Competencies:
+
+Strong understanding of Data Science, AI, and Machine Learning fundamentals.
+
+Experience in Core ML, Deep Learning frameworks (TensorFlow, PyTorch, Keras, etc.).
+
+Knowledge of AI Agents, autonomous systems, and intelligent applications.
+
+Proficiency in Statistical Data Analysis for actionable insights.
+
+Programming skills in Python, R, SQL, and data visualization tools.
+
+Excellent problem-solving, analytical thinking, and communication skills.
+
+Preferred Qualifications:
+
+Bachelor’s or Master’s degree in Computer Science, Data Science, Statistics, AI, or related fields.
+
+Experience with cloud platforms (AWS, GCP, Azure) and ML pipelines.
+
+Passion for learning and staying updated with the latest AI/ML researc
