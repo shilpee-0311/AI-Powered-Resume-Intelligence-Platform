@@ -32,3 +32,6 @@ It goes beyond keyword matching by understanding context, providing match scores
    ```bash
    git clone < http://192.168.29.128:8501>
 
+    <img width="1255" height="647" alt="image" src="https://github.com/user-attachments/assets/01eafb64-d771-43e9-bedf-76d314a40cd7" />
+
+
