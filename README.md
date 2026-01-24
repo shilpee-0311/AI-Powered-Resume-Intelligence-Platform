@@ -30,5 +30,5 @@ It goes beyond keyword matching by understanding context, providing match scores
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone < http://192.168.29.128:8501>
 
